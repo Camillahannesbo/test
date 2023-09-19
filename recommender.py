@@ -6,6 +6,8 @@ from sklearn.preprocessing import LabelEncoder
 from sklearn.decomposition import TruncatedSVD
 from sklearn.metrics.pairwise import cosine_distances
 
+"hey"
+
 @st.experimental_singleton
 def read_process_data():
 # data and prepro
